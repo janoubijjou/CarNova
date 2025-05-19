@@ -155,3 +155,9 @@
 - Authentification JWT ou session classique
 - Affichage responsive sur tous les écrans
 - Bonne séparation front / back avec
+
+## UML
+- *Use Case Diagram* :
+![Diagramme UML](Documents/Diagramme-de-cas-dutilisation.png)
+- *Class Diagram* :
+![Diagramme UML](Documents/Diagramme-de-classe.png)
